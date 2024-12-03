@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    }
+
+    .header-top {
+        color:white;
+        background-color:black;
+        height: 40px;
+        padding-top: 1%;
+        padding-left: 2%;
+        display: flex;
+        gap:25px;
+        
+        }
+
+.header-middle {
+    color:white;
+    background-color:red;
+    display: flex;
+    
+   
+
+   
+    
+   
+} 
+    
+.header-middle img {
+    height: 80px;
+    width: 80px;
+    justify-content: space-between;
+    display: flex;
+    
+
+}
+.header-middle ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 20px 50px;
+    gap:20px;
+}
+
+.header-middle i {
+    display: flex;
+     padding-top: 2%; 
+     
+    
+}
+
+    
+    
+
+
+
+
